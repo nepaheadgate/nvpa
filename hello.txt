@@ -1,3 +1,4 @@
 This is a proof-of-concept file for the nvpa repository.
 Line 2: verifying that git tracking works.
 Line 3: initial version.
+Line 4: this line was added in a second commit to verify edit tracking.
