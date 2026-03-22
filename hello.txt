@@ -1,4 +1,7 @@
-This is a proof-of-concept file for the nvpa repository.
-Line 2: verifying that git tracking works.
-Line 3: initial version.
-Line 4: this line was added in a second commit to verify edit tracking.
+This is a file that exists for no particular reason, which is often the best reason for anything. It sits in a repository called nvpa, and if you asked me what that stood for I wouldn't tell you, because some things are better left unexplained.
+
+I will say this: git is tracking it. That much is verifiable. The way certain facts in life are verifiable — youreli­gibility for a mortgage, the time of sunset, whether the woman you married is the woman you thought you married — while other facts simply refuse to hold still.
+
+This is the initial version, though "initial" is a word that always makes me uneasy. Nothing is truly initial. Everything has a prior version that didn't get written down.
+
+This line was added later, in a second commit, to prove that edits could be tracked. Which they can. Though tracking a thing and understanding it are, as anyone who has been married knows, not the same enterprise.
